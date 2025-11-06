@@ -1,6 +1,8 @@
-# Test Project
+# 🎯 TouchBench
 
-This is a test README to verify functionality.
+Interactive Touch & Gesture Performance Benchmark
+
+A web-based application for testing and measuring touch performance, gesture recognition, and device responsiveness.
 
 ## 🚀 Deployment
 
@@ -49,11 +51,33 @@ netlify deploy --prod
 
 ## 🎨 Features
 
-The deployed site includes:
-- Beautiful gradient background
-- Responsive design
-- Modern UI with animations
-- Mobile-friendly layout
+The deployed demo includes:
+
+### ⚡ Real-time Performance Monitoring
+- Touch event counter
+- Average response time tracking
+- Active touch point detection
+- Live FPS counter
+
+### 🎨 Interactive Drawing Canvas
+- Multi-touch support
+- Drawing with mouse or touch
+- Color picker (6 vibrant colors)
+- Variable brush sizes (small, medium, large)
+- Clear canvas functionality
+
+### 📊 Benchmark Testing
+- Automated performance tests
+- Response time analytics
+- Visual touch indicators
+- Export-ready statistics
+
+### 💎 Modern UI/UX
+- Glassmorphism design
+- Smooth animations
+- Responsive layout (mobile & desktop)
+- Touch-optimized controls
+- Real-time toast notifications
 
 ---
 

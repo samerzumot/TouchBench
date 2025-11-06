@@ -8,7 +8,11 @@
 ### 🌐 Live Site - Option 2:
 **https://htmlpreview.github.io/?https://raw.githubusercontent.com/samerzumot/TouchBench/cursor/deploy-and-share-project-link-9660/index.html**
 
-Both links **render the HTML properly** and show your beautiful website!
+Both links **render the full TouchBench demo** with all interactive features:
+- Interactive drawing canvas
+- Real-time performance metrics
+- Touch benchmarking tools
+- Color picker and brush controls
 
 ## Alternative Access Methods
 
