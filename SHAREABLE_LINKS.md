@@ -1,11 +1,14 @@
 # 🔗 Shareable Links
 
-## ✅ WORKING LINK (Available Now!)
+## ✅ WORKING LINKS (Render HTML Properly!)
 
-### 🌐 Live Site:
-**https://cdn.jsdelivr.net/gh/samerzumot/TouchBench@cursor/deploy-and-share-project-link-9660/index.html**
+### 🌐 Live Site - Option 1 (Recommended):
+**https://raw.githack.com/samerzumot/TouchBench/cursor/deploy-and-share-project-link-9660/index.html**
 
-This link is **working right now** and serves your beautiful website via jsDelivr CDN!
+### 🌐 Live Site - Option 2:
+**https://htmlpreview.github.io/?https://raw.githubusercontent.com/samerzumot/TouchBench/cursor/deploy-and-share-project-link-9660/index.html**
+
+Both links **render the HTML properly** and show your beautiful website!
 
 ## Alternative Access Methods
 

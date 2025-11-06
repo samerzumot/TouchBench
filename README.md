@@ -8,8 +8,11 @@ This project is configured to automatically deploy to GitHub Pages.
 
 ### 🌐 Live Site (Available Now!)
 
-**Immediate Access via CDN:**
-**https://cdn.jsdelivr.net/gh/samerzumot/TouchBench@cursor/deploy-and-share-project-link-9660/index.html**
+**Immediate Access (Renders Properly):**
+**https://raw.githack.com/samerzumot/TouchBench/cursor/deploy-and-share-project-link-9660/index.html**
+
+**Alternative Link:**
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/samerzumot/TouchBench/cursor/deploy-and-share-project-link-9660/index.html
 
 **Future GitHub Pages URL (requires manual setup):**
 https://samerzumot.github.io/TouchBench/
