@@ -6,10 +6,13 @@ This is a test README to verify functionality.
 
 This project is configured to automatically deploy to GitHub Pages.
 
-### Live Site
+### 🌐 Live Site (Available Now!)
 
-Once deployed, the site will be available at:
-**https://samerzumot.github.io/TouchBench/**
+**Immediate Access via CDN:**
+**https://cdn.jsdelivr.net/gh/samerzumot/TouchBench@cursor/deploy-and-share-project-link-9660/index.html**
+
+**Future GitHub Pages URL (requires manual setup):**
+https://samerzumot.github.io/TouchBench/
 
 ### Deployment Method
 
